@@ -8,4 +8,4 @@
 [![Juan Felipe Rodriguez Galindo](https://img.shields.io/badge/Juferoga-github-br?style=flat-square)](https://gitlab.com/Juferoga)
 [![License](https://img.shields.io/badge/License-GPL_V.3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-repository for subject developments - Linux Server Management And Security - by coursera given by the university of colorado
+Repository for subject developments - Linux Server Management And Security - by coursera given by the university of colorado
