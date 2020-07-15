@@ -1,6 +1,6 @@
 # 👻  **Linux Server Management And Security**
 
-<img src="https://www.udistrital.edu.co/themes/custom/versh/images/default/preloader.png" align="left" width="192px" height="192px"/>
+<img src="https://www.ruggersedge.com/wp-content/uploads/2017/08/UCCS-logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > Juan Felipe Rodríguez Galindo
